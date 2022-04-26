@@ -3,7 +3,8 @@
 
 Este projeto busca realizar a predição do tipo de gênero musical com base em algumas informações técnicas de áudio. Dessa forma, é fornecido ao programa dois _datasets_, um contendo os metadados de diversas músicas classificadas como sendo **Rock** ou **Hip-Hop** e outro contendo as métricas de áudio para diversas músicas. Serão utilizadas a linguagem Python e técnicas de _Machine Learning_ no desenvolvimento deste estudo.<br><br>Assim, espera-se que o programa seja capaz de identificar o gênero musical de dada faixa apenas com o valor de suas métricas, sem qualquer entrada de mídia.
 
-![](music_headphone.jpg)
+<center><img src="music_headphone.jpg" alt="drawing" width="400"/>
+
 ## Instalação
 Não são necessárias instalações adicionais.<br><br>
 
